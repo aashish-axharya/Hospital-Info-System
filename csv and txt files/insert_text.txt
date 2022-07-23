@@ -1,0 +1,7 @@
+Bir Hospital,01-4230710,150,Public,Ratna Park-Kathmandu,General
+Ophthalmology Hospital,01-5950018,250,Private,Jagatjung Marga-Kathmandu,Eye
+Eye Institute ,01-5393428,120,Private,Gaushala-Kathmandu,Eye
+Xyz Hospital ,01-5253313,100,Private,Harisiddhi-Kathmandu,Cancer
+Women Hospital,01-5590475,130,Private,Bansbari Rd-Kathmandu,Women
+Community Hospital,01-4990101,100,Public,Jagatjung Marga-Kathmandu,General
+Ganesh Hospital,01-4351422,100,Private,Bansbari Rd-Kathmandu,Heart
